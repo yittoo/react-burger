@@ -3,7 +3,7 @@ import React, { Component } from "react";
 import Aux from "../../../hoc/Auxiliari/Auxiliari";
 import Button from "../../UI/Button/Button";
 
-import classes from "./OrderSummary.css";
+import "./OrderSummary.css";
 
 class OrderSummary extends Component {
   render() {
